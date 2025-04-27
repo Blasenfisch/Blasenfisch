@@ -1,6 +1,14 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
+# Willkommen auf dem Blasenfisch - GitHub-Profil!
+
+Hallo! Mein Name ist _Blasenfisch_. Ich stamme vom Planeten 4546B, einer wunderschönen Wasserwelt. Ich möchte GitHub nutzen und kennenlernen, um hier irgendwann Dokumente und Texte bereitzustellen, die ich mit anderen teilen möchte. Aktuell ist hier noch nicht viel im Public-Bereich zu sehen. Das soll sich allerdings irgendwann einmal ändern.
+
+Vielen Dank für euren Besuch!
+
+**_Euer Blasenfisch_**
+
+
 **Blasenfisch/Blasenfisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
