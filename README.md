@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 
-- ![GitHub Release](https://img.shields.io/github/v/release/Blasenfisch/Blasenfisch) ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/Blasenfisch/Blasenfisch?type=file&label=Anzahl%20Dateien) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Blasenfisch/Blasenfisch) 
+  ![GitHub Release](https://img.shields.io/github/v/release/Blasenfisch/Blasenfisch) ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/Blasenfisch/Blasenfisch?type=file&label=Anzahl%20Dateien) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Blasenfisch/Blasenfisch) 
 
 
 
